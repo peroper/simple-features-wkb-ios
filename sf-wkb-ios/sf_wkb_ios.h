@@ -6,8 +6,7 @@
 //  Copyright (c) 2015 NGA. All rights reserved.
 //
 
-#ifndef sf_wkb_ios_sf_wkb_ios_h
-#define sf_wkb_ios_sf_wkb_ios_h
-
-
-#endif
+#import <sf_wkb_ios/SFWBGeometryCodes.h>
+#import <sf_wkb_ios/SFWBGeometryReader.h>
+#import <sf_wkb_ios/SFWBGeometryTypeInfo.h>
+#import <sf_wkb_ios/SFWBGeometryWriter.h>

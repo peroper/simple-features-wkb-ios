@@ -7,7 +7,7 @@
 //
 
 #import <Foundation/Foundation.h>
-#import "SFGeometry.h"
+#import <sf_ios/sf_ios.h>
 
 /**
  * Geometry Code utilities to convert between geometry attributes and geometry
